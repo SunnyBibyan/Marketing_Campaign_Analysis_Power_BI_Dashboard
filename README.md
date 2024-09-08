@@ -5,7 +5,7 @@ This project analyzes the performance of the **Spring**, **Summer**, and **Fall*
 
 The analysis is done using Power BI, focusing on campaign performance, target audience engagement, and conversion rates.
 
-![Campaign Analysis Dashboard](assets/Screenshot%202024-08-31%20220913.png)
+![Campaign Analysis Dashboard](assets/Dashboard.png)
 
 ## Key Features
 - **Data Sources**: This analysis uses a cleaned dataset from the ONYX Data - DataDNA Dataset Challenge.
