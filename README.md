@@ -52,7 +52,6 @@ Here are some of the visualizations included in the dashboard:
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## Connect with Me
-- **LinkedIn Post**: [Project Overview](https://www.linkedin.com/posts/sunny-bibyan_datadna-builtwithzoomcharts-datacleaning-activity-7209298860601401344-cIxq?utm_source=share&utm_medium=member_desktop)
 - **Contact**: [Sunny Kumar](mailto:sunnykumar6121997@gmail.com)
 
 
